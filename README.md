@@ -27,9 +27,9 @@ Multiplicado por dezenas de clientes, todo mês. Este projeto transforma isso em
 
 ## Demonstração
 
-| Tela de login | Aplicação principal |
-|---|---|
-| ![Tela de login](docs/login.png) | ![Tela principal](docs/app.png) |
+![Aplicação principal](docs/app.png)
+
+A janela principal: à esquerda os dados da empresa e a seleção de relatórios, à direita o período, o destino e o log em tempo real. O botão Iniciar só habilita quando há destino, período válido e pelo menos um relatório marcado.
 
 ## Funcionalidades
 
