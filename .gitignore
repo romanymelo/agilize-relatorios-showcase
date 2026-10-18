@@ -1,0 +1,43 @@
+# ---- Credenciais e configuração local ----
+.env
+config_agilize.json
+
+# ---- Instruções locais para o Claude Code (contém caminhos da máquina) ----
+CLAUDE.md
+
+# ---- Artefatos de build (PyInstaller) ----
+build/
+dist/
+*.spec.bak
+
+# ---- Ambientes virtuais ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Saídas do robô (relatórios baixados) ----
+*.pdf
+Resultado_Agilize_*.xlsx
+
+# ---- Sistema operacional ----
+Thumbs.db
+desktop.ini
+ehthumbs.db
+.DS_Store
+
+# ---- Editores ----
+.vscode/
+.idea/
+*.swp

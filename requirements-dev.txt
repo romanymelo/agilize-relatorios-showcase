@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Geração do executável Windows (pyinstaller agilize_v2.3.spec)
+pyinstaller==6.20.0

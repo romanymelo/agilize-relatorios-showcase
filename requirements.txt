@@ -1,0 +1,12 @@
+# Interface gráfica
+customtkinter==5.2.2
+
+# Automação do navegador (requer: playwright install chromium)
+playwright==1.59.0
+
+# Leitura/escrita das planilhas de lote e de status
+pandas==2.3.3
+openpyxl==3.1.5
+
+# Autenticação e controle de licença
+supabase==2.29.0
